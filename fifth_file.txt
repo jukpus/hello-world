@@ -1,4 +1,5 @@
 5th file in my project. Should only be in testing branch
+Let's do a change to test merge tool
 
 And here's a merge conflict
 
