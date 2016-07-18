@@ -1,2 +1,4 @@
 5th file in my project. Should only be in testing branch
 
+And here's a merge conflict
+
