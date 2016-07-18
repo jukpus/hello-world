@@ -1,2 +1,3 @@
 # hello-world
 This is a second file in my project
+And now try with .gitignore enabled for ~ -files
