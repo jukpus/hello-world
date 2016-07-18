@@ -5,3 +5,5 @@ and this is another new line
 
 Now editing in my own PC
 SOme editing still
+
+This change should be visible only in master branch
