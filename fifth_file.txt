@@ -2,4 +2,5 @@
 Let's do a change to test merge tool
 
 And here's a merge conflict
+And touch the file for GUI testing
 
